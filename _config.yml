@@ -91,6 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "MS-CHS的个人博客", href: "https://ms-chs.ce-ramos.cn/" },
     { title: "JBT-RAMOS的Bilibili主页", href: "https://space.bilibili.com/3493129957149016" },
   ]

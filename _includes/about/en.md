@@ -9,7 +9,7 @@
 
 1. **书剑长吁** (Provided Native Login, Optimized System Themes)
 
-2. **[MS-CHS](https://ms-chs.github.io/)*** (Website Technical Support)
+2. **[MS-CHS](https://ms-chs.github.io/)**(Website Technical Support)
 
 3. **Infinity** (System Optimization)
 

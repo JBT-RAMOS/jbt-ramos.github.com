@@ -22,7 +22,7 @@
 
 # JBT-RAMOS team
 
-1. JBT-RAMOS (Kernel Production Part Software Development Project Initiator)
+1. **JBT-RAMOS** (Kernel Production Part Software Development Project Initiator)
 
 2.**Taotao 00586** (part of the software development system test)
 
@@ -36,4 +36,3 @@
 
 3. Infinity (System Optimization)
 
-1. **时光浅巷**

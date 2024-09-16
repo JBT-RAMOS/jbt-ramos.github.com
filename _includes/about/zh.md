@@ -20,6 +20,12 @@
 
 3.**JBT-RAMOS团队制作的所有软件 RAMOS PE等都禁止商用**
 
+# 已授权
+
+1.**SYSTEM-RAMOS-XZY**(仅JBT-RAMOS v2.1.1，有效期2024.9.18~2025.9.18)
+
+**注:JBT-RAMOS团队可随时取消授权**
+
 # JBT-RAMOS团队
 
 1.**JBT-RAMOS**(内核制作 部分软件开发 项目发起人)

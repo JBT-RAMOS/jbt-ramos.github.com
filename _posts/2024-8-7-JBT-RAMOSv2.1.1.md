@@ -36,7 +36,7 @@ https://m.bilibili.com/video/BV1LMakenEUk
 
 ![](/img/2.1.1dep.png)
 
-![](/img/2.2.1settings.png)
+![](/img/2.1.1settings.png)
 
 ![](/img/2.1.1ps.png)
 

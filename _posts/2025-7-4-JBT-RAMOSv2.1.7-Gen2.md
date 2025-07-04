@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      JBT-RAMOS v2.1.7-Gen2
-subtitle:【UWPPE】
+subtitle:    UWPPE
 date:       2025-07-4
 author:     JBT-RAMOS
 header-img: img/home-bg.jpg
